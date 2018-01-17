@@ -1,0 +1,18 @@
+		              	    Bienvenue au QCM projet 
+		Dans ce qcm, vous devrez répondre à 10 question d'ordres générales.
+
+Question 1) 1+1+1+1 =
+a)2
+b)3
+c)4
+
+Question 2) 10+10 =
+a)20
+b)0
+c)10
+
+Question 3) La capitale de la france :
+a)Nanterre
+b)Nante
+c)Paris
+
